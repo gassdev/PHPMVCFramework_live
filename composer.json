@@ -1,0 +1,17 @@
+{
+  "name": "gassdev/phpmvc-framework",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "gassdev",
+      "email": "gassdev@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  }
+}
